@@ -35,5 +35,5 @@ int main(void)
     return 0;
 }
 //但是我们从中可以大概得到一个思路，我们可以试着使用时间复杂度更小的STL容器，eg：priority_queue(),set()
-//之后一个文件的代码将使用priority_queue()容器编写
+//之后一个文件(modeling_end.cpp)的代码将使用priority_queue()容器编写
 //并且对时间复杂度进行分析并详解时间缩小的原因
